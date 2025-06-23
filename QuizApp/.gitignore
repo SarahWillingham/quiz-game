@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm project settings
+.idea/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+.pytest_cache/
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+pip-wheel-metadata/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and local config
+*.log
+*.local
+*.swp
+
+# Compiled UI artifacts (if any)
+*.pyc
+*.pyo
+
+# Other
+*.bak
