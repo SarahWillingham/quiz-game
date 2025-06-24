@@ -1,0 +1,10 @@
+certifi==2025.6.15
+charset-normalizer==3.4.2
+colorgram.py @ file:///C:/Users/sarah/Downloads/colorgram.py-1.2.0-py2.py3-none-any.whl#sha256=e990769fa6df7261a450c7d5bef3a1a062f09ba1214bff67b4d6f02970a1a27b
+docopt==0.6.2
+idna==3.10
+pillow==11.1.0
+pipreqs==0.4.13
+requests==2.32.4
+urllib3==2.5.0
+yarg==0.1.10
